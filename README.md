@@ -9,3 +9,5 @@ Avg. Session Length: Average session of in-store style advice sessions.
 Time on App: Average time spent on App in minutes
 Time on Website: Average time spent on Website in minutes
 Length of Membership: How many years the customer has been a member. 
+
+I order to view the html file of the python notebook please go to:
